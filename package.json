@@ -1,0 +1,14 @@
+{
+  "name": "metodoshomemade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forEach.js",
+  "scripts": {
+    "start:forEach": "node forEach.js",
+    "start:map": "node map.js",
+    "start:filter": "node filter.js",
+    "start:reduce": "node reduce.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
